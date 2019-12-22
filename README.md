@@ -1,4 +1,4 @@
-# Lab-3-TypeScript
+# Lab-2-TypeScript
 
 # Start the projet 
 
